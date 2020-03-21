@@ -8,6 +8,7 @@ extension String.StringInterpolation {
 }
 struct ManMath: ParsableCommand {
     static var configuration = CommandConfiguration(commandName: "manmath", abstract: "Performs calcularions with out using arithmetic operations")
+    @Option(name: [.customLong("operation", withSingleDash: false), .customShort("o")], help: "The operand") var operation: MathOption
     @Argument(help: "The first argument. It is the left operand") var arg1: Int
     @Argument(help: "The second argument. It is the right operand") var arg2: Int
     enum MathOption: String,Decodable, ExpressibleByArgument {
@@ -19,7 +20,7 @@ struct ManMath: ParsableCommand {
             print(string)
         }
     }
-    @Option(name: [.customLong("operation", withSingleDash: false), .customShort("o")], help: "The operand") var operation: MathOption
+    
     @Flag(name: [.customShort("v"), .customLong("verbose", withSingleDash: false)], help: "Activate verbose kode. ASll the operations are printed.") var verbose: Bool
     func run() throws {
         let argl = arg1
