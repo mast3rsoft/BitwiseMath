@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# BitwiseMath
 
 A description of this package.
 =======
