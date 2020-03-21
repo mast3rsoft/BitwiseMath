@@ -1,5 +1,5 @@
 
 A description of this package.
 =======
-# BitwiseMath
+# BitwiseMath Rocks
 # Hello Super Cool

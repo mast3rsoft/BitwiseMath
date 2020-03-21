@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/BitwiseMath.d",
+    "object": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/BitwiseMath.o",
+    "swift-dependencies": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/master.swiftdeps"
+  },
+  "/Users/niko/Downloads/BitwiseMath/Sources/BitwiseMath/main.swift": {
+    "object": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/main.swift.o",
+    "swiftmodule": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/main.swiftdeps"
+  }
+}

@@ -1,0 +1,29 @@
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Argument.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/ArgumentHelp.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Errors.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Flag.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/NameSpecification.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/Option.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Properties/OptionGroup.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/CommandConfiguration.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableArguments.swift.o'
+'/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsable Types/ParsableCommand.swift.o'
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDecoder.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentDefinition.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentSet.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ArgumentSetSequence.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/CommandParser.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/InputOrigin.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Name.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/Parsed.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParsedValues.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/ParserError.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Parsing/SplitArguments.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpCommand.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/HelpGenerator.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/MessageInfo.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Usage/UsageGenerator.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/StringExtensions.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/ArgumentParser.build/Utilities/Tree.swift.o
+/Users/niko/Downloads/BitwiseMath/.build/x86_64-apple-macosx/release/BitwiseMath.build/main.swift.o
